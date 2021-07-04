@@ -1,4 +1,4 @@
-# UnityRealTimeGraphPlotting
+# Unity Real-Time Graph Plotting
 This Unity project contains the scripts &amp; details of how to create a graph that can be updated in real-time using live sensor, performance or activity data
 
 To simulate an example of receiving & plotting real-time data, a random number generator is used which generates a random number each frame. The number is then plotted on the graph.
