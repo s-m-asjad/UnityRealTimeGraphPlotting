@@ -9,7 +9,7 @@ To simulate an example of receiving & plotting real-time data, a random number g
 Just press play :) 
 
 
-# How to Use
+# How to Use the Script in Some Other Project
 In your actual project, first create a UI -> Canvas and name it "GraphCanvas" or anything else you like. This will be the parent of all our further GameObjects. You can place it in your game scene where you want the graph to be and the size of this canvas determines the visual size of the graph. User can edit change these as per requirement.
 
 Inside the "GraphCanvas" create a child empty GameObject called "background". Add an image component to it, and color it with whichever color you like. This will be our outer background for the graph. Ensure that the Rect Transform is stretch along both x & y-axis for this so it fills up the entire parent canvas.
